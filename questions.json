@@ -1,0 +1,72 @@
+[
+{
+“question”: “What is the capital of France?”,
+“answers”: [“London”, “Berlin”, “Paris”, “Madrid”],
+“correct”: 2,
+“category”: “geography”,
+“difficulty”: “easy”
+},
+{
+“question”: “Which planet is known as the Red Planet?”,
+“answers”: [“Venus”, “Mars”, “Jupiter”, “Saturn”],
+“correct”: 1,
+“category”: “science”,
+“difficulty”: “easy”
+},
+{
+“question”: “How many hearts does an octopus have?”,
+“answers”: [“One”, “Two”, “Three”, “Four”],
+“correct”: 2,
+“category”: “science”,
+“difficulty”: “medium”
+},
+{
+“question”: “What is the largest ocean on Earth?”,
+“answers”: [“Atlantic Ocean”, “Indian Ocean”, “Arctic Ocean”, “Pacific Ocean”],
+“correct”: 3,
+“category”: “geography”,
+“difficulty”: “easy”
+},
+{
+“question”: “In what year did World War II end?”,
+“answers”: [“1943”, “1944”, “1945”, “1946”],
+“correct”: 2,
+“category”: “history”,
+“difficulty”: “medium”
+},
+{
+“question”: “Who painted the Mona Lisa?”,
+“answers”: [“Vincent van Gogh”, “Pablo Picasso”, “Leonardo da Vinci”, “Michelangelo”],
+“correct”: 2,
+“category”: “art”,
+“difficulty”: “easy”
+},
+{
+“question”: “What is the speed of light in vacuum?”,
+“answers”: [“299,792 km/s”, “150,000 km/s”, “400,000 km/s”, “250,000 km/s”],
+“correct”: 0,
+“category”: “science”,
+“difficulty”: “hard”
+},
+{
+“question”: “Which ancient wonder is still standing today?”,
+“answers”: [“Colossus of Rhodes”, “Hanging Gardens of Babylon”, “Great Pyramid of Giza”, “Lighthouse of Alexandria”],
+“correct”: 2,
+“category”: “history”,
+“difficulty”: “medium”
+},
+{
+“question”: “What is the smallest country in the world?”,
+“answers”: [“Monaco”, “Vatican City”, “San Marino”, “Liechtenstein”],
+“correct”: 1,
+“category”: “geography”,
+“difficulty”: “medium”
+},
+{
+“question”: “Who wrote ‘Romeo and Juliet’?”,
+“answers”: [“Charles Dickens”, “William Shakespeare”, “Jane Austen”, “Mark Twain”],
+“correct”: 1,
+“category”: “literature”,
+“difficulty”: “easy”
+}
+]
